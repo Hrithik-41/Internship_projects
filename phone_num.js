@@ -1,0 +1,1 @@
+let strings = ["+919999999999","+918888888888","+917777777777"]; strings.forEach(str => { return document.write(str.slice(-10) + "<br/>"); });
